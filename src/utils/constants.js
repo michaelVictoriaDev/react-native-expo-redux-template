@@ -1,9 +1,9 @@
 export const colors = {
-  WHITE: '#120D31',
-  PINK_50: '#0D1321',
-  PINK_100: '#FFEDDF',
-  PINK_200: '#C5D86D',
-  PINK_300: '#86615C',
+  WHITE: '#FFFFFF',
+  PINK_50: '#FCE4EC',
+  PINK_100: '#F8BBD0',
+  PINK_200: '#F48FB1',
+  PINK_300: '#F06292',
   PINK_400: '#EC407A',
-  PINK_500: '#120D31',
+  PINK_500: '#E91E63',
 };
